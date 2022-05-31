@@ -1,0 +1,1 @@
+https://elanderson.net/2020/04/azure-devops-pipelines-use-yaml-across-repos/
